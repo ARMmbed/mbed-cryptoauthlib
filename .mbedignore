@@ -3,6 +3,7 @@ cryptoauthlib/docs/
 cryptoauthlib/python/
 cryptoauthlib/third_party/
 cryptoauthlib/test/cmd-processor.c
+cryptoauthlib/test/unity*
 cryptoauthlib/lib/hal/hal_*
 cryptoauthlib/lib/hal/i2c_*
 cryptoauthlib/lib/hal/kit_*
